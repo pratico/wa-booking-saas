@@ -56,7 +56,7 @@ The stack relies on battle-tested technologies selected for stability, low resou
 
 🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). For operational security, platform compliance, and NDA reasons, the source code and internal deployment configurations are not publicly exposed.
 
-🤝 **Custom B2B Development & Architecture Inquiries:** Available for private single-tenant deployments, custom Official WhatsApp Cloud API integrations, and asynchronous backend consulting (zero calls required). Reach out via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn]([[https://www.linkedin.com/in/antoniangeloflore/](https://www.linkedin.com/in/antoniangelo-f-30003622/)](https://www.linkedin.com/in/antoniangelo-f-30003622/)).
+🤝 **Custom B2B Development & Architecture Inquiries:** Available for private single-tenant deployments, custom Official WhatsApp Cloud API integrations, and asynchronous backend consulting (zero calls required). Reach out via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn]([(https://www.linkedin.com/in/antoniangelo-f-30003622/)](https://www.linkedin.com/in/antoniangelo-f-30003622/).
 
 ---
 
@@ -117,4 +117,4 @@ Questa combinazione garantisce un sistema solido, scalabile e manutenibile, adat
 
 🔒 **Asset Software Proprietario (Tutti i diritti riservati):** Questo repository ha finalità di presentazione funzionale e architetturale per il Portfolio Professionale ([https://antoniangeloflore.com](https://antoniangeloflore.com)). Per ragioni di sicurezza operativa, conformità alle policy di piattaforma e accordi di riservatezza (NDA), il codice sorgente e le specifiche infrastrutturali non sono esposti pubblicamente.
 
-🤝 **Sviluppo Custom & Integrazioni API:** Disponibile per implementazioni private dedicate, integrazioni su API Ufficiali WhatsApp Business Cloud e consulenze backend asincrone (zero call). Contatti su [antoniangeloflore.com](https://antoniangeloflore.com) o su [LinkedIn]([[https://www.linkedin.com/in/antoniangeloflore/](https://www.linkedin.com/in/antoniangelo-f-30003622/)](https://www.linkedin.com/in/antoniangelo-f-30003622/)).
+🤝 **Sviluppo Custom & Integrazioni API:** Disponibile per implementazioni private dedicate, integrazioni su API Ufficiali WhatsApp Business Cloud e consulenze backend asincrone (zero call). Contatti su [antoniangeloflore.com](https://antoniangeloflore.com) o su [LinkedIn]([(https://www.linkedin.com/in/antoniangelo-f-30003622/)](https://www.linkedin.com/in/antoniangelo-f-30003622/).
