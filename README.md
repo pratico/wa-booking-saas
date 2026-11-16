@@ -56,7 +56,7 @@ The stack relies on battle-tested technologies selected for stability, low resou
 
 🔒 **Proprietary Software Asset (All Rights Reserved):** This repository serves as a functional and architectural showcase within the Professional Portfolio ([https://antoniangeloflore.com](https://antoniangeloflore.com) — *Italian portal & video demos; English B2B delivery*). For operational security, platform compliance, and NDA reasons, the source code and internal deployment configurations are not publicly exposed.
 
-🤝 **Custom B2B Development & Architecture Inquiries:** Available for private single-tenant deployments, custom Official WhatsApp Cloud API integrations, and asynchronous backend consulting (zero calls required). Reach out via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn](https://www.linkedin.com/in/antoniangeloflore/).
+🤝 **Custom B2B Development & Architecture Inquiries:** Available for private single-tenant deployments, custom Official WhatsApp Cloud API integrations, and asynchronous backend consulting (zero calls required). Reach out via [antoniangeloflore.com](https://antoniangeloflore.com) or [LinkedIn]([[https://www.linkedin.com/in/antoniangeloflore/](https://www.linkedin.com/in/antoniangelo-f-30003622/)](https://www.linkedin.com/in/antoniangelo-f-30003622/)).
 
 ---
 
